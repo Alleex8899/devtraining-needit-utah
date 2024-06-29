@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>alex</sys_created_by>
+        <sys_created_on>2024-06-29 09:07:36</sys_created_on>
+        <sys_id>9f4754dec34742105395d64d05013191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_9f4754dec34742105395d64d05013191</sys_update_name>
+        <sys_updated_by>alex</sys_updated_by>
+        <sys_updated_on>2024-06-29 09:07:36</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 12pt;"><strong>Acest vapor s a dus pe pl cu 5tone de haur in el</strong></span></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Titanic_sinking%2C_painting_by_Willy_St%C3%B6wer.jpg" alt="File:Titanic sinking, painting by Willy Stöwer.jpg ..." width="290" height="163" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=9f4754dec34742105395d64d05013191"/>
+</record_update>
